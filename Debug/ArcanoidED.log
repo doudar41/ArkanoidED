@@ -1,0 +1,22 @@
+﻿  ArcanoidED.cpp
+  The contents of <format> are available only with C++20 or later.
+D:\DragonTest\ArcanoidED\Objects.h(277,95): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\DragonTest\ArcanoidED\ArcanoidED.cpp(50,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\DragonTest\ArcanoidED\ArcanoidED.cpp(50,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\DragonTest\ArcanoidED\ArcanoidED.cpp(68,93): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\DragonTest\ArcanoidED\ArcanoidED.cpp(68,81): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\DragonTest\ArcanoidED\ArcanoidED.cpp(163,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\DragonTest\ArcanoidED\ArcanoidED.cpp(166,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\DragonTest\ArcanoidED\ArcanoidED.cpp(188,16): warning C4018: '>': signed/unsigned mismatch
+D:\DragonTest\ArcanoidED\ArcanoidED.cpp(206,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\DragonTest\ArcanoidED\ArcanoidED.cpp(206,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\DragonTest\ArcanoidED\ArcanoidED.cpp(232,22): warning C4018: '<': signed/unsigned mismatch
+D:\DragonTest\ArcanoidED\ArcanoidED.cpp(259,21): warning C4018: '<': signed/unsigned mismatch
+D:\DragonTest\ArcanoidED\ArcanoidED.cpp(267,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\DragonTest\ArcanoidED\ArcanoidED.cpp(267,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\DragonTest\ArcanoidED\ArcanoidED.cpp(315,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\DragonTest\ArcanoidED\ArcanoidED.cpp(315,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\DragonTest\ArcanoidED\ArcanoidED.cpp(319,111): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\DragonTest\ArcanoidED\ArcanoidED.cpp(319,104): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\DragonTest\ArcanoidED\ArcanoidED.cpp(319,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  ArcanoidED.vcxproj -> D:\DragonTest\ArcanoidED\Debug\ArcanoidED.exe
